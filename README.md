@@ -18,7 +18,7 @@
 ---
 ![Dewmo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewmo123&show_icons=true&theme=radical)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dewmo123)](https://solved.ac/dewmo123/)
 ---
 
 <span style="font-size:105%">
