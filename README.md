@@ -18,6 +18,8 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewmo123&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dewmo123)](https://solved.ac/dewmo123/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmo123&layout=compact&theme=dracula)
+
 ---
 
 <span style="font-size:105%">
