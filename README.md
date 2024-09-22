@@ -6,9 +6,7 @@
 <span style="font-size:80%">
 
 ```sh
-안녕하세요. 경기게임마이스터고등학교에 재학중인 안국현이라고 합니다.
-현재 게임 서버 개발자를 목표로 프로그래밍을 배우고 있는 중입니다.
-잘부탁드립니다
+나는 풀스택 개발자가 될거야!
 ```
 
 </span>
@@ -19,6 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewmo123&show_icons=true&theme=dracula&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dewmo123)](https://solved.ac/dewmo123/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewmo123&layout=compact&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dewmo123&theme=sunset-gradient)](https://git.io/streak-stats)<br>
 
 ---
 
